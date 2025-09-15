@@ -20,11 +20,14 @@
 - 💻 My career path is towards becoming an project manager/team lead. I'm currently **studying Computer Vision, which is a branch of Artificial Intelligence.**
 
 ## 🌐Socials
-<p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/l%C3%AA-to%C3%A0n-464946300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-</p>
 
-# Tech Stack
+<p align="center">
+  <a href="https://github.com/vphuocthinh2006">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="www.linkedin.com/in/võ-phước-thịnh-7b679a382">
+</p>
+    
+## Tech Stack
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60"/> 
