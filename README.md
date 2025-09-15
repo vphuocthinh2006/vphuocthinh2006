@@ -5,13 +5,8 @@
 
 ---
 
-
 <p align="center">
-  <a href="https://anuraghazra.github.io">
-    <img width="80%" alt="Hello, I'm Thinh. I am an aspiring Project Manager!" src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/gh-readme-header.png" />
-  </a>
-</p>
-
+  <a href="https://github.com/vphuocthinh2006"><img width="80%" alt="Hello, I'm Thinh. I am an aspiring Project Manager!" src="./Hello,.png" /></a></p>
 
 <br />
 
