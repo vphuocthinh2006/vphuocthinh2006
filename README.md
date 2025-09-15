@@ -10,7 +10,7 @@
 
 
 # 💫About Me :
-- 🔭 I'm currently studying in University of Information Technology. I major in Computer Science.
+- 🔭 I'm currently studying in University of Information Technology. My major is Computer Science.
 - 💻 My career path is towards becoming an project manager/team lead. I'm currently **studying Computer Vision, which is a branch of Artificial Intelligence.**
 
 ## 🌐Socials
