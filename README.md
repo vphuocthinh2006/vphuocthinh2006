@@ -5,7 +5,6 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/võ-phước-thịnh-7b679a382)
 
 
 <br />
@@ -19,8 +18,7 @@
 <p align="center">
   <a href="https://github.com/vphuocthinh2006">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="www.linkedin.com/in/võ-phước-thịnh-7b679a382">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/võ-phước-thịnh-7b679a382)
 </p>
     
 ## 💻 Tech Stack
