@@ -1,6 +1,6 @@
 ---
 
-<h3 quote align='center'>***If you stopped seeing the world in terms of what you like and what you dislike, and saw things for what they truly are in themselves, you would find a great deal more peace in your life***.</h3 quote>
+<h3 quote align='center'>If you stopped seeing the world in terms of what you like and what you dislike, and saw things for what they truly are in themselves, you would find a great deal more peace in your life .</h3 quote>
 
 
 ---
@@ -31,8 +31,21 @@
 ## Tech Stack
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="60" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="60" width="60"/>
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" width="50" alt="C++ Logo" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" width="50" alt="Python Logo" />
+  <!-- Git -->
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" alt="Git Logo" />
+  <!-- GitKraken -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg" width="50" alt="GitKraken Logo" />
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL Logo" />
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy Logo" />
+  <!-- Matplotlib -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" alt="Matplotlib Logo" />
+  <!-- Scikit-Learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="Scikit-Learn Logo" />
 </p>
+
