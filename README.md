@@ -2,7 +2,6 @@
 
 <h3 quote align='center'>If you stopped seeing the world in terms of what you like and what you dislike, and saw things for what they truly are in themselves, you would find a great deal more peace in your life</h3 quote>
 
-<br / >
 
 ---
 
