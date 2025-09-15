@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/vphuocthinh2006"><img width="30%" alt="Hello, I'm Thinh. I am an aspiring Project Manager!" src="./Hello,.png" /></a></p>
+  <a href="https://github.com/vphuocthinh2006"><img width="30%" alt="Hello, I'm Thinh. I am an aspiring Project Manager!" src="./Hello.png" /></a></p>
 
 <br />
 
