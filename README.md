@@ -11,7 +11,8 @@
 
 # 💫About Me :
 - 🔭 I'm currently studying in University of Information Technology. My major is Computer Science.
-- 💻 My career path is towards becoming an project manager/team lead. I'm currently **studying Computer Vision, which is a branch of Artificial Intelligence.**
+- 💻 My career path is to grow from a Computer Vision/AI Engineer into leadership roles such as Team Lead and Project Manager, where **I can combine technical expertise with management skills.**
+  
 
 ## 🌐Socials
 
