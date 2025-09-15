@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/vphuocthinh2006"><img width="30%" alt="Hello, I'm Thinh. I am an aspiring Project Manager!" src="./Hello.png" /></a></p>
+  <a href="https://github.com/vphuocthinh2006"><img width="80%" alt="Hello, I'm Thinh. I am an aspiring Project Manager!" src="./Hello,.png" /></a></p>
 
 <br />
 
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
     
-## Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <!-- C++ -->
@@ -44,3 +44,21 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="Scikit-Learn Logo" />
 </p>
 
+## 🔥 GitHub stats: 
+
+<p align="center">
+  <a href="https://github.com/SarveshMankar">
+    <img title="GitHub Stats" alt="Sarvesh's streak" src="https://streak-stats.demolab.com/?user=SarveshMankar&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SarveshMankar"><img alt="Sarvesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SarveshMankar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/SarveshMankar"><img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshmankar&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
+
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+
+[![Sarvesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SarveshMankar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/SarveshMankar/github-readme-activity-graph)
